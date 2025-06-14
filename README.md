@@ -1,45 +1,75 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi, I'm Swastik 👋</h1>
 
-###
+<p align="center">
+  💻 B.Tech. CSE at NSUT, Delhi &nbsp;•&nbsp; ⚙️ Backend & Full-Stack Dev &nbsp;•&nbsp; 🎯 Learning AI & Systems
+</p>
 
-<p align="left">My name is Swastik and I'm pursuing Computer Science Engineering from Netaji Subhash University of Technology, Delhi.</p>
+---
 
-###
+### 🧑‍💻 About Me
 
-<h2 align="left">About me</h2>
+I'm a Computer Science undergraduate at **Netaji Subhas University of Technology, Delhi**, currently focused on building scalable full-stack applications. I'm especially interested in backend architecture, real-time systems, and exploring ML in my free time.
 
-###
+I like working on projects that solve real problems — and occasionally breaking things while fixing them.
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning backend development with NodeJS</p>
+---
 
-###
+### 🚧 Current Focus
 
-<h2 align="left">Tech Stack</h2>
+- Building full-stack apps using **Node.js**, **React**, and **WebSockets**  
+- Diving deeper into **PostgreSQL**, **GraphQL**, and backend performance  
+- Exploring the basics of **Machine Learning**  
+- Leading a summer project: a platform for student collaboration, event discovery, and live community features  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+### 🛠️ Tech Stack
+
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+
 </div>
 
-###
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swastikiscoding&show_icons=true&theme=default&hide_title=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastikiscoding&layout=compact&theme=default" width="49%" />
+</div>
+
+---
+
+### 📫 Contact
+
+<div align="left">
+
+- 📧 Email: [swastikiscoding@gmail.com](mailto:swastikiscoding@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/swastik220705](https://www.linkedin.com/in/swastik220705)  
+- 🌐 Portfolio: [swastikiscoding.github.io/portfolio](https://swastikiscoding.github.io/portfolio)  
+
+</div>
+
+---
